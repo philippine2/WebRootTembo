@@ -8,18 +8,14 @@
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    width:800px;
-    height: 700px;
-    border: 0.5px solid gray;
+    width:900px;
+    height: 800px;
+    
   
 }
-#text{
-    color:beige;
-    align-content: center;
-    font-family: Arial, Helvetica, sans-serif;
-}
+
 #text2{
-    font-size: 150%;
+    font-size: 200%;
     color: bisque;
     align-content: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -32,4 +28,30 @@
     margin-left:auto;
     border-radius:8px;
 
+}
+.col-sm-8{
+    background-color: black;
+}
+.col-sm-4{
+    background-color: gray;
+    
+}
+#b{
+    color:wheat;
+}
+#a{
+    color: wheat;
+}
+#c{
+    color: wheat;;
+}
+#l{
+    color: white;
+}
+#text{
+    color: white;
+    font-size: 200%;
+
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
